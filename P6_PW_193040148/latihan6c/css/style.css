@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	font-family: "lucida console", Courier, monospace;	
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	border: 5px solid skyblue;
+	box-shadow: 7px 7px 7px 7px rgba(0,0,0,0.5);
+}
+
+table {
+	width: 800px;
+	height: 600px;
+	margin: auto;
+}
+
+tr{
+	font-size: 15px;
+	text-align: center;
+}
+
+button {
+	background-color: skyblue;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+}
